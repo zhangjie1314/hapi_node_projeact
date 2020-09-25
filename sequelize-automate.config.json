@@ -1,0 +1,19 @@
+{
+    "dbOptions": {
+      "database": "ejoyst_dev",
+      "username": "ejoystdb",
+      "password": "Uml4ome88ddFV4QewMpv",
+      "dialect": "mysql",
+      "host": "192.168.2.242",
+      "port": 3306,
+      "define": {
+        "timestamps": false,
+        "freezeTableName": false
+      }
+    },
+    "options": {
+      "type": "js",
+      "dir": "models",
+      "tables": ["b_member_side_dt", "b_member"]
+    }
+}
